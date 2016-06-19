@@ -1,0 +1,6 @@
+# A list of javascript files required for the project, in dependency order
+javascripts:
+  files:
+    - lib/index.js
+  specs:
+    - spec/index-spec.js
